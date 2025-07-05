@@ -12,8 +12,8 @@ Luciaです。
 
 ・自作発言禁止・再配布禁止・改変禁止・常識の範囲内で使用してください。
 
-デザイン　：Lucia  [X : https://x.com/Lucia_fairy_]
+デザイン 　　　　：Lucia  [X : https://x.com/Lucia_fairy_]
 
-タグ           ：#るちあーと
+タグ　　　　　　 ：#るちあーと
 
-GitHub管理：キノ   [X : https://x.com/kinokoha131 ]
+GitHub管理 　　　：キノ   [X : https://x.com/kinokoha131 ]
