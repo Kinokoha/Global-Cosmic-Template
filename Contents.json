@@ -1,10 +1,1420 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "3827b70a0d8155c5c6fff8e385fe7158",
+				"Address" : "OIphNS4i_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a8a731ce1c57c142c861fd7595a78f72",
+				"Address" : "OIphNS4i_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "3c5df8e4a7123d7562163b5b766bc58d",
+				"Address" : "OIphNS4i_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "かまうちゃん",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "62dc154bf6e59e727fc0cd337c31ff46",
+				"Address" : "9gDy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9169159e0619c81f6cd46eaba6766008",
+				"Address" : "9gDy_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "2b2e82811ac17fc5ab42f149f2521ed6",
+				"Address" : "9gDy_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "キノ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7bf8129f19e82c3ea86e5bc3a404454f",
+				"Address" : "I23FS0bb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "b30b17207a7f664df050121098388255",
+				"Address" : "I23FS0bb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "64054600f4f643331a1f7f142635d9b2",
+				"Address" : "I23FS0bb_Back.png",
+				"ExIsFront" : False
+			},
+			"MoveBack" : {
+				"Hash" : "69c5dfe1396663cc2343836983d5c36b",
+				"Address" : "I23FS0bb_MoveBack.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e6774a3a8ab2611746562a8035f9d45a",
+				"Address" : "I23FS0bb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "0ece6c696265aa323e489fa054ef5df1",
+				"Address" : "I23FS0bb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Lucia",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c6e47ff49a7d6c1d975a0aef7377bffe",
+				"Address" : "NYQRT4H5b_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "5eda1e3823ea054968b13dc47b9ed25a",
+				"Address" : "NYQRT4H5b_Flip.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "ab2524d3d01e684cc4d9d39013c40be6",
+				"Address" : "NYQRT4H5b_Move.png",
+				"ExIsFront" : False
+			},
+			"MoveFlip" : {
+				"Hash" : "c082bf0c3c9d8afa651cb10a16974777",
+				"Address" : "NYQRT4H5b_MoveFlip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6bc76dc324ef9e872cebc3d3a975fccc",
+				"Address" : "NYQRT4H5b_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "22fb79df8396864a3dd28ba663daee0e",
+				"Address" : "NYQRT4H5b_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "かまうちゃん\\(レトロングアス\\)",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7dd4ff7acb0fa33470b66e2f070a5bb3",
+				"Address" : "Fl97Ceqwc_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "3064cc8f05ebed107f6d8dcb89693306",
+				"Address" : "Fl97Ceqwc_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "3b23d71cedbe7b3c85c6a31902b6cc80",
+				"Address" : "Fl97Ceqwc_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "14d7156313c9099feb3e69fb3c8f9879",
+				"Address" : "Fl97Ceqwc_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "4127d2dc6a2352ad6fdfb8659fa80e01",
+				"Address" : "Fl97Ceqwc_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentFlip" : {
+				"Hash" : "cee0ec4c04102379ce402d9cbb302187",
+				"Address" : "Fl97Ceqwc_EnterVentFlip.png",
+				"ExIsFront" : False
+			},
+			"EnterVentBack" : {
+				"Hash" : "57faeda16ecb818f281ed9b74961b297",
+				"Address" : "Fl97Ceqwc_EnterVentBack.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Lucia\\(レトロングアス\\)",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "5e9163385ebba1a7b457dc52869ecf4c",
+				"Address" : "80hGdxw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "33013a0f1b361415265494deb02d2725",
+				"Address" : "80hGdxw_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "1073cdbd24744a66a6e5870d86e7397a",
+				"Address" : "80hGdxw_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "アスター",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6fac1e3c8ce54c043a8d2e3437816b0d",
+				"Address" : "tPxzKT6pb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "b0b4e10b09636e87a636c4c5c00bb735",
+				"Address" : "tPxzKT6pb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "108d38cdf71465e8d4fca06023cff6b7",
+				"Address" : "tPxzKT6pb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "0a7b0a2d4d173edd97c16f025e7829d6",
+				"Address" : "tPxzKT6pb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "海鮮のたこ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6ef83fed26b8d5ea8a254e7c3920ed1a",
+				"Address" : "Ez0DDnw_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "936e3d0ba2a5e607538ae77a4722cd02",
+				"Address" : "Ez0DDnw_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d7c5867f2259740361360d399fd310b3",
+				"Address" : "Ez0DDnw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "がっでむ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ca0ddc850f4ee653041877412e48b263",
+				"Address" : "Vo0ncblb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "5c46ad9f27b34d952bb83d94f651bd66",
+				"Address" : "Vo0ncblb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "黒猫零P",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cde5f80d769e35080aa64168e27aa909",
+				"Address" : "70bx8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "526bb494525c924ae8b096f155ae2c71",
+				"Address" : "70bx8c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "473485644bf1fbced11cfd1c2bc2b4ac",
+				"Address" : "70bx8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "4d21d563b2299aeb3b71d75418be126c",
+				"Address" : "70bx8c_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ケミス",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cece756b11c357625977786ab78451e5",
+				"Address" : "sXkW_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "61f4b3fe97aca8c6fb877bcd41ba62b4",
+				"Address" : "sXkW_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "32747a952054787339a3dc9aad28519f",
+				"Address" : "sXkW_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "bdc636c96450afeacacffac94ca4cbb8",
+				"Address" : "sXkW_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentFlip" : {
+				"Hash" : "9e442c529b9704caa60676efe2c4372e",
+				"Address" : "sXkW_EnterVentFlip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "志季",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "73db81250a8befca9750457a9784013d",
+				"Address" : "QqlWRow_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "b7cd4a2effead3d5ba981c335f1d9264",
+				"Address" : "QqlWRow_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b4aee7e081b6cb088755574c3a1b8b05",
+				"Address" : "QqlWRow_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "a059279c773a84f5cfa170fc8866e4e6",
+				"Address" : "QqlWRow_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentFlip" : {
+				"Hash" : "5fda53291864b0fcdd7b72a7525c67d4",
+				"Address" : "QqlWRow_EnterVentFlip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "しゃーぺ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d27b65fa1299ed7dbe66665f94b0c84c",
+				"Address" : "e2sy_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "c8e8b4f5c3de3f84855ad750ff73c082",
+				"Address" : "e2sy_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "7a514f652bb4bc013462d40233208ccd",
+				"Address" : "e2sy_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "23b292efc01238ad409ced29fa3f13fc",
+				"Address" : "e2sy_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "eed352da7eca43580c470214865b4c71",
+				"Address" : "e2sy_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentBack" : {
+				"Hash" : "ffaad8ec3406ed12f06456c4ff3e0d94",
+				"Address" : "e2sy_EnterVentBack.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "すぅ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b4ea9f37274a0cee41a95798e4c6900f",
+				"Address" : "xYEy_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "e6ecba76cb756db8e1b9f27c74545d9e",
+				"Address" : "xYEy_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ebf580e5f044823e0e635dd3ea7fc6b6",
+				"Address" : "xYEy_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "3fab2f4ebb58cbc66ca407711217463f",
+				"Address" : "xYEy_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "セナ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cb20bfdf46dd8bd5a7801d95cb96f47b",
+				"Address" : "s0ty_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "007014eadceaef4936fbe989555e4d38",
+				"Address" : "s0ty_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "073871756a5c4701be348b9be773eb81",
+				"Address" : "s0ty_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ちぃ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9385eb43cf2d9af1561ff77100fd76d5",
+				"Address" : "1qgT8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "ab9cc91065700984ae92b81d4efaddf5",
+				"Address" : "1qgT8c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "53a253e0cb501cb928cdfa5a97e3ffa8",
+				"Address" : "1qgT8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "3ff7d10fef8ee853e26157bb820d2273",
+				"Address" : "1qgT8c_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドラ葉",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ca49c6881ae6a02a0e219c25fe27a168",
+				"Address" : "SkD39e_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "f1010430c687a9be1cd02cdcacd001c3",
+				"Address" : "SkD39e_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "a5152bc0101ce807bc285c0750d687ea",
+				"Address" : "SkD39e_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "63eaac9c5e67a98b09c9e7a062bf7dbf",
+				"Address" : "SkD39e_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "凪あい",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c0970e122c6d68ee1363bf36e8e49152",
+				"Address" : "i2Ru7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "5bb466cf50a07150b0507f224ab6b47f",
+				"Address" : "i2Ru7c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7cae636bf08cce1117fa08dbb34e015e",
+				"Address" : "i2Ru7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "9a5e8bed1ebf92c085d9b7c193b38973",
+				"Address" : "i2Ru7c_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "にしむ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "85878a43a9c07cab0ef4494de44f4861",
+				"Address" : "L1WWhQdkc_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "6e0eb80d95eaa132ae3706cbc9d5ad20",
+				"Address" : "L1WWhQdkc_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9a0366adae0353b44747dcc21f05403b",
+				"Address" : "L1WWhQdkc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "緋浜ほたて",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "08ef084162ed7d7e8bef5d955d7973a7",
+				"Address" : "3Djalplr_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "457917c8c8d880d7837ce8dd9f098b15",
+				"Address" : "3Djalplr_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6e89c257513dbde4ddf51d35baa29cd8",
+				"Address" : "3Djalplr_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "cfcee8644a34d0f885b32fd09050459a",
+				"Address" : "3Djalplr_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"ExitVent" : {
+				"Hash" : "cfcee8644a34d0f885b32fd09050459a",
+				"Address" : "3Djalplr_ExitVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "まるてぃむ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "b054401661808e6612f39819565242b4",
+				"Address" : "ZvGgqV0ec_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "8a7184d1139ed9732ecd836958d045dc",
+				"Address" : "ZvGgqV0ec_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d6f50d5a03031e34b7cc0f96d252207e",
+				"Address" : "ZvGgqV0ec_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "94be7d64af3ba61721e756a613b97f00",
+				"Address" : "ZvGgqV0ec_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentBack" : {
+				"Hash" : "0ac8183f6a26759ca96618ef7ee91695",
+				"Address" : "ZvGgqV0ec_EnterVentBack.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "mizuchi",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "559887460a1b98755bbe45dca944ea88",
+				"Address" : "8qJR7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "3bab08fe7026244d3163b13e0cb052c5",
+				"Address" : "8qJR7c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "48f8a89eac6a44d0a1e994b56fcb7497",
+				"Address" : "8qJR7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "やくみ",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ce4ed63e6e9a17efa5557a2034ff8a52",
+				"Address" : "1HMR7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "c2dea8d65b912d4fcd2159c65dba8cde",
+				"Address" : "1HMR7c_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "da1ba16c7f9a690e35ce98fccae8bf7f",
+				"Address" : "1HMR7c_Back.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d4b045afdfda7d4388c2d9bc468cbc5d",
+				"Address" : "1HMR7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "d0e4d4c81c41e9093a07c80927e6a164",
+				"Address" : "1HMR7c_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "やなち",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e8289b9b813201fb0a1df48626c9e532",
+				"Address" : "EA0FY8dL_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "a0f69dc26f0fec1ef298a2dd9b072772",
+				"Address" : "EA0FY8dL_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ad9880a890fe6b0183c979f5c7324345",
+				"Address" : "EA0FY8dL_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "ef7be5551d71965e63d556213647c05f",
+				"Address" : "EA0FY8dL_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ハチミツ大好きくまちゃん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "ac225b6cba89f8126f7fd99243b6b1ac",
+				"Address" : "UVbdFIg5b_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "45568f199457e8be1ae4b9a0d531fcdc",
+				"Address" : "UVbdFIg5b_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "1e5435b5407c00b760c074cd00d085c8",
+				"Address" : "UVbdFIg5b_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "133cdc55ef8d47f38f4de12747d6420e",
+				"Address" : "UVbdFIg5b_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "お魚抱えたトラ猫",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d4285cbc622a0a526035315e671f4db8",
+				"Address" : "e6xb9k5Z_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "f0d918fe793399efcf772fc2ac13b256",
+				"Address" : "e6xb9k5Z_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ee26de25c86c7cd86fd163172a6aa821",
+				"Address" : "e6xb9k5Z_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "89006d51312696ec5851f959dde02ba7",
+				"Address" : "e6xb9k5Z_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ぴよちゃんは卵が宝物",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "8b6c00d56d4b3f508353567693e3c861",
+				"Address" : "bot3bmSz_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "e657dbcaa30daf1630a369f484a131d9",
+				"Address" : "bot3bmSz_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "3b5a8df87bead8f4ad5bb9196ebacd93",
+				"Address" : "bot3bmSz_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "fe7ad5943fcc7e99e9027c89c5a001b9",
+				"Address" : "bot3bmSz_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "骨クッキー好きわんちゃん",
+			"Author" : "Lucia」",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "6ef149951e5ee2689cf18b9d5d8de02b",
+				"Address" : "n7r3RmaDb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "ca7b58450d2eb37de79434929507e20b",
+				"Address" : "n7r3RmaDb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "85a2e0f75806eb6bf20bc3135c1f513e",
+				"Address" : "n7r3RmaDb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "5bf91f13657252169cf6e3a18c813021",
+				"Address" : "n7r3RmaDb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "フルーツもぐもぐゾウさん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7a33005d5a447c16288e81ab67e83b18",
+				"Address" : "nH9bOts4_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "73c15ff4732dec1e9c606617dd91dea8",
+				"Address" : "nH9bOts4_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "22b950b4a2d1c87f10ad5bef25ff3ba0",
+				"Address" : "nH9bOts4_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "eb86999926cdd71fd1aeca1ad4a81af3",
+				"Address" : "nH9bOts4_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "お供えはお揚げ一択キツネさん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "c63b9327ac17950fcc86f7f3d60c63ff",
+				"Address" : "aqWW9WvA_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "388dedd9259350292190661a846f1fa0",
+				"Address" : "aqWW9WvA_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "90444f1f600726efafdf216dbc421720",
+				"Address" : "aqWW9WvA_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "1716a2f017a989e2755c4c0f66e09354",
+				"Address" : "aqWW9WvA_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "おちゃめなキリンさん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "17d1dfd29a17ff35b74a23fac0a950d5",
+				"Address" : "H0TAoRDG_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "fbcccbc469c7030bf0a901a5d9aaee0e",
+				"Address" : "H0TAoRDG_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "76a2026db5ca2362fb300e14ef6a0c8d",
+				"Address" : "H0TAoRDG_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ヤギさんゆうびん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a990083af2a1a2fe59d1f7b09d715f2a",
+				"Address" : "thA6OvYYb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "18dce6b255e9ce05cb2909509a44a8db",
+				"Address" : "thA6OvYYb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b3bfcb947e036001d82dbabefbf7b4e0",
+				"Address" : "thA6OvYYb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "8f344b0c72931571a32bead50d43ed2b",
+				"Address" : "thA6OvYYb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "子連れコアラ",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "44dea715a27b10c3a7ea0d46f4c11961",
+				"Address" : "wqOKg4Zf_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "98f0a5e83980231b026a9b09392e371d",
+				"Address" : "wqOKg4Zf_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4c68821350513fbbee7b3b0b74c1062e",
+				"Address" : "wqOKg4Zf_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "37386657dbed70212d76f32c65454467",
+				"Address" : "wqOKg4Zf_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "お肉大好きライオンくん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "18bc45e892e25b959029f69cec5d6d55",
+				"Address" : "go0jPlrEb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "63c87cf9d66e87a34da26b384298a4b4",
+				"Address" : "go0jPlrEb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "1482db0f8cdd46b32ff5318f1ed3b3ad",
+				"Address" : "go0jPlrEb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "キノコ子キノコ",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "bfa4b9ab55ba59b9c15f63f256d7d166",
+				"Address" : "x0WtMPGfb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "39ca0fca63bdf75d9bb59180a9a7f82b",
+				"Address" : "x0WtMPGfb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e912c404a29b96ba5c70ad826988f87b",
+				"Address" : "x0WtMPGfb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "0891b92d32550c655b02f688b1f27504",
+				"Address" : "x0WtMPGfb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "笹うめぇ\\(パンダ\\)",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "e995624a5fdd8eb42fc144f2826981eb",
+				"Address" : "dHGUIq4qb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "6e1eab262d3bf64548a2db0f7b97f946",
+				"Address" : "dHGUIq4qb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "47ac7a15da61c6203227d9bc47d7012a",
+				"Address" : "dHGUIq4qb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "背中のバケツに…\\(ペンギン\\)",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "960477c8d18b04c47bdd2d989cc65e68",
+				"Address" : "NDW3EdtL_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "8a3c72e1723ad595943f80fa6de3486b",
+				"Address" : "NDW3EdtL_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ab3de2979070aac985e141485ecd48c9",
+				"Address" : "NDW3EdtL_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "f86512955d744347321ab8327687e4df",
+				"Address" : "NDW3EdtL_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ふわふわうさちゃん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "7d06c7dd33a1673edb5dae41c45b825c",
+				"Address" : "cwMoiiucc_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "719c45a77c567d3047a802d06e37da8f",
+				"Address" : "cwMoiiucc_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7df820313ce99442c77522d2ff48e9a0",
+				"Address" : "cwMoiiucc_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "3c1367be7648b390dca4c9a267c29458",
+				"Address" : "cwMoiiucc_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ぽんぽこたぬき",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "34ca5656bda825d7ccdeec9f18dab2d5",
+				"Address" : "pT2NEOiJ_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "f66b8767c6eb421e987f843060935f6d",
+				"Address" : "pT2NEOiJ_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "fb5ff0d4dfc6c04082b8b001e2aa9de8",
+				"Address" : "pT2NEOiJ_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "3582a9a8eebf396cf9d31ca71fbad711",
+				"Address" : "pT2NEOiJ_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "どんぐり大好きりすさん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "76e49bd145b4df831141e435ab684912",
+				"Address" : "DoOWeSumb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "e12bfba1129d77af8e96c5276dc0fee3",
+				"Address" : "DoOWeSumb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "27d04999f0dc8e0363b122a6101338cd",
+				"Address" : "DoOWeSumb_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "694259cfe3e2873822a5d8b634dc2171",
+				"Address" : "DoOWeSumb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "並走可能なカメさん",
+			"Author" : "Lucia",
+			"Package" : "Luciart Hats(Animal&more)",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "bc49de0e2511fa80a11eb3016d6e30a6",
+				"Address" : "7S23mpP_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "14e0eeb039cf2736c438af856a26de73",
+				"Address" : "7S23mpP_Flip.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "26962effe5929aac1294a36c0c4495a7",
+				"Address" : "7S23mpP_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentFlip" : {
+				"Hash" : "007e0a9eef8c46e9d7df7b0808717050",
+				"Address" : "7S23mpP_EnterVentFlip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "妖精の紙",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "2b7aa80811b40245d5e0b28b26e2a40f",
+				"Address" : "h5fNZxMBb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "3b672ff173610083c797464bd565f97b",
+				"Address" : "h5fNZxMBb_Flip.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "8bad4d14f80aaf7a4a1d379c0c26ca60",
+				"Address" : "h5fNZxMBb_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"EnterVentFlip" : {
+				"Hash" : "9a17ca0c1b725b9bef18aacddbad9b67",
+				"Address" : "h5fNZxMBb_EnterVentFlip.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "妖精の紙\\(クルー色\\)",
+			"Author" : "Lucia",
+			"Package" : "Luciart",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Luciart",
+			"Format" : "Luciart",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Package" : "Luciart Hats(Animal&more)",
+			"Format" : "Luciart Hats(Animal&more)",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
